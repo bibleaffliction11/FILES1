@@ -1,6 +1,3 @@
-
-
-package ysra;
 import java.util.*;
 public class ysra {
     
